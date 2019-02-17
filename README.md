@@ -1,2 +1,3 @@
-# chess-bf
-Chess engine written in brainfuck(under construction)
+# libbf
+
+Some useful brainfuck algorithms presented in a form of stand-alone programs
